@@ -1,0 +1,12 @@
+# Eclipse settings
+.project
+.classpath
+.settings/
+
+# Build output
+bin/
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.swp
